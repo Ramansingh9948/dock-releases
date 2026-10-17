@@ -1,0 +1,45 @@
+{
+  "version": "0.2.0",
+  "files": {
+    "crun-linux-aarch64": {
+      "sha256": "308f8719055de178897f66cbb72d6a02567050ac645dd5eca52f48de347dda6c",
+      "size": 2707152
+    },
+    "crun-linux-x86_64": {
+      "sha256": "4f170aaa10d2ef02560cfb60b67ddfa1a83b1b4f7018227e9cb23a6af3955ec1",
+      "size": 2931320
+    },
+    "thinkncollab-shell.tgz": {
+      "sha256": "d14382bc7cf7ce4534f17283d7f7c998ee77c8022989b3e7ea0ca44cea83bc24",
+      "size": 229238
+    },
+    "tnc-dock-vm-aarch64.tar.gz": {
+      "sha256": "8322c43aedd3721f7433135483d8255ad476ff6c03e3527fa4c8e711b172b3b8",
+      "size": 22826851
+    },
+    "tnc-dock-vm-x86_64.tar.gz": {
+      "sha256": "90a174abc8c776a8bc554f0bf6a0658be996cb0a92d0fb99ea744aa0dfb27445",
+      "size": 24590560
+    },
+    "tnc-dock-wsl-aarch64.tar.gz": {
+      "sha256": "b2fa8ff60ca34c64b5f634b295982d1e20499cbf50e5ff8de95959fdeb1ce3d8",
+      "size": 7429579
+    },
+    "tnc-dock-wsl-x86_64.tar.gz": {
+      "sha256": "c4fe8daac90ca61ecfcc72d959e5d7b58c797dd340c8cbe4a87d29b6fe78c3dc",
+      "size": 6847256
+    },
+    "tnc-shim-linux-aarch64": {
+      "sha256": "42430c2bd411b60b469dff83abdecf5cbe2ff47c30ca763d839da82bf7fffb7d",
+      "size": 1910616
+    },
+    "tnc-shim-linux-x86_64": {
+      "sha256": "a1ae973839196dc61f44d053f834da922e8914b4349b2c1da0d47c094a92bf02",
+      "size": 1674392
+    },
+    "tnc-vz-darwin-universal": {
+      "sha256": "0a5adca291a6a82f8ff7af4ac46dbebca1771490856b970343196ba35a5f2276",
+      "size": 143136
+    }
+  }
+}
