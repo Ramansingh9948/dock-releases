@@ -4,7 +4,7 @@ Runtime bundles for **thinknsh dock**, the container engine in ThinkNCollab Shel
 You don't need to download anything from here by hand:
 
 ```bash
-npm install -g https://thinkncollab.com/downloads/dock/0.2.0/thinkncollab-shell.tgz
+npm install -g https://thinkncollab.com/downloads/dock/0.2.4/thinkncollab-shell.tgz
 thinknsh dock setup
 ```
 
