@@ -1,5 +1,5 @@
 {
-  "version": "0.2.4",
+  "version": "0.2.6",
   "files": {
     "crun-linux-aarch64": {
       "sha256": "308f8719055de178897f66cbb72d6a02567050ac645dd5eca52f48de347dda6c",
@@ -10,8 +10,8 @@
       "size": 2931320
     },
     "thinkncollab-shell.tgz": {
-      "sha256": "dea0430b518e7e677650a4a9f62a2489788586e8beeebaf58a5ab66ab169a820",
-      "size": 452538
+      "sha256": "a74dc82011db3e1cef42009e216c2fd462a026a7c379c61ddb20fc13444ca7ba",
+      "size": 466765
     },
     "tnc-busybox-linux-aarch64": {
       "sha256": "ebd2865edcab0b590c7d0edb70d3e782cbfb541e518a390ced3a3e186509bc7f",
@@ -22,20 +22,20 @@
       "size": 1025960
     },
     "tnc-dock-vm-aarch64.tar.gz": {
-      "sha256": "b53da1db5a0cfa00577ddf7a75328354296ac3bf69c0e3f43bc9f9837d5df80a",
-      "size": 23564615
+      "sha256": "d9c8ca15abfbfb78cb7e170ad7434f2c4949d259c77a031ee90624f4c3691067",
+      "size": 24077432
     },
     "tnc-dock-vm-x86_64.tar.gz": {
-      "sha256": "ec7f749efe6de14cf016a89f89b99cd4bc1ca6b367d1c213cad532de2bce551a",
-      "size": 25297954
+      "sha256": "c8a5ea1572eddbaa988e4b6125b8beab8b9af557da362a35df111219c53104d7",
+      "size": 25926292
     },
     "tnc-dock-wsl-aarch64.tar.gz": {
-      "sha256": "2bc68f56cdead5a3f7657ed9972ce287090605c130cca5246957566a22bb3f82",
-      "size": 8129812
+      "sha256": "3a8083e4ce4af138fba7ef9cd1156fc08b61f09d8804cbf6bbbd11c3b90a3c49",
+      "size": 8129798
     },
     "tnc-dock-wsl-x86_64.tar.gz": {
-      "sha256": "1331183230411f4c158deb3c15f9ff0a16ac6beacc1cb37201ccdfcb58cb5534",
-      "size": 7513882
+      "sha256": "85b7733bf037b560542cedd3dd20f0f91a54cf1884160a4efd510561f02b5bff",
+      "size": 7513874
     },
     "tnc-shim-linux-aarch64": {
       "sha256": "69c0474e664e5ed969e16c0ce33c9651fb3500fbddc184470e7574442c0a6fe7",
@@ -46,8 +46,8 @@
       "size": 1785392
     },
     "tnc-tray-darwin-universal.tar.gz": {
-      "sha256": "5c1d0f99ce388f599fc2e11fe2a6c023b0bcbd3bc1e1e9873d995cb52e9fc27e",
-      "size": 362731
+      "sha256": "06cccd9844124bcb32c01ea47621bcf6b4d8dff3738c602f642efa624b685a1a",
+      "size": 362241
     },
     "tnc-vz-darwin-universal": {
       "sha256": "e5b119c95616cd6be1f6d135e677baf76f75bdf3c32aca2623cc8b561f867067",
